@@ -1,0 +1,127 @@
+[
+  {
+    "name": "IPL LIVE",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBTOy4ioF4ydTrXWJ9nXzuJrIH-SrC72JC4AATegTppLNEy4OYxzYFQyzT&s=10",
+    "url": "https://tv.bdixtv24.com/toffee/live.php?id=9b4b3941986a&e=.m3u8"
+  },
+  {
+    "name": "PSL",
+    "logo": "https://i.ibb.co/zW9f8S14/PSL.jpg",
+    "url": "https://stream2.aryzap.com/v1/018a8885b8951eb401a603639363/018a88860ada09831f17035d95dd/main.m3u8"
+  },
+  {
+    "name": "WWE",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c4/WWE_official_logo.svg",
+    "url": "http://smart.bengaldigital.live/WWE/index.m3u8"
+  },
+  {
+    "name": "T Sports 1",
+    "logo": "https://i.postimg.cc/sfc07kCn/20250313-225549.png",
+    "url": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8"
+  },
+  {
+    "name": "T Sports 2",
+    "logo": "https://i.postimg.cc/sfc07kCn/20250313-225549.png",
+    "url": "https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8"
+  },
+  {
+    "name": "GAZI TV HD",
+    "logo": "https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png",
+    "url": "https://ayna-three.vercel.app/api/stream/b1808fb2-8892-49dc-965e-d038e5334995.m3u8"
+  },
+  {
+    "name": "STAR JALSHA HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3W9qiYW7toPvoJs-jvG0zhxuFFp1EQq1OfHnMWGVQSzeH3bXz78Md696q&s=10",
+    "url": "https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8?hdnts="
+  },
+  {
+    "name": "STAR JALSHA",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/640px-Star_Jalsha_logo_2023.png",
+    "url": "https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8?hdnts="
+  },
+  {
+    "name": "JALSHA MOVIES HD",
+    "logo": "https://banner2.cleanpng.com/20180623/qf/aazug0foc.webp",
+    "url": "http://38.96.178.201/live/STARJALSHA/index.m3u8"
+  },
+  {
+    "name": "Zee Bangla",
+    "logo": "https://i.postimg.cc/ZRjjSzFd/20250403-190441.png",
+    "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8"
+  },
+  {
+    "name": "Colors Bangla",
+    "logo": "https://i.postimg.cc/bJFbgy93/colorsbangla.png",
+    "url": "https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8?hdnts="
+  },
+  {
+    "name": "Eiter10 Bangla",
+    "logo": "https://i.postimg.cc/fypczz3J/enter10bangla.png",
+    "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8"
+  },
+  {
+    "name": "Sangeet Bangla",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYYLijjughYF51FVjWeUtGKFckDYqm8B1elAgERP4HIDMf8KpDYC7LpZ4&s=10",
+    "url": "http://38.96.178.201/live/SangeetBangla/index.m3u8"
+  },
+  {
+    "name": "SANANDA TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTylaokf1TCdYunrrVZdAbn9A1lolFbzxMEmLAOGipEbT9xQaqF4-eo27nn&s=10",
+    "url": "https://live.sanonda.tv/sanonda/index.m3u8"
+  },
+  {
+    "name": "SONY AATH HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",
+    "url": "http://38.96.178.201/live/SonyAath/index.m3u8"
+  },
+  {
+    "name": "Tv9 Bangla",
+    "logo": "https://i.postimg.cc/pXb0Nvjp/20250403-191930.png",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-bangla/main.m3u8"
+  },
+  {
+    "name": "Bangla Plus",
+    "logo": "https://i.postimg.cc/4y7TM4dJ/Bangla-Plus.png",
+    "url": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8"
+  },
+  {
+    "name": "Tara Cenema",
+    "logo": "https://i.postimg.cc/8c2VV8JL/20241103-070341.png",
+    "url": "http://103.145.48.150:90/laosat24/taratv/index.m3u8"
+  },
+  {
+    "name": "Amar Digital",
+    "logo": "https://i.postimg.cc/BnGGY0G0/Amar-Digital.png",
+    "url": "https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8"
+  },
+  {
+    "name": "Amar Bangla",
+    "logo": "https://i.postimg.cc/4dnC74pz/Amar-Bangla.png",
+    "url": "https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8"
+  },
+  {
+    "name": "Moon TV",
+    "logo": "https://i.postimg.cc/027N2Zk9/Mon.png",
+    "url": "https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8"
+  },
+  {
+    "name": "DD বাংলা",
+    "logo": "https://i.postimg.cc/kM8sH9Jz/20250407-152000.png",
+    "url": "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/8fd382eb-7285-4e25-be5a-3e5795672ffe/2.m3u8"
+  },
+  {
+    "name": "Btv",
+    "logo": "https://i.postimg.cc/yNn1cjGK/btv.jpg",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/1709.m3u8"
+  },
+  {
+    "name": "Somoy Tv",
+    "logo": "https://i.ibb.co/4rkKKV2/Somoy-TV.jpg",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/1702.m3u8"
+  },
+  {
+    "name": "Independent TV",
+    "logo": "https://i.ibb.co/5XdRmLqQ/Independent-TV.jpg",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/1703.m3u8"
+  }
+]
